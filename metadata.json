@@ -1,0 +1,24 @@
+{
+    "name": "Chunky Cat",
+    "description": "CHUNKY CAT BADGE",
+    "symbol": "CC",
+    "image": "https://imgur.com/Fub7QtQ",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "CHUNKY CAT BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "cat",
+            "value": "white"
+        },
+        {
+            "trait_type": "meme",
+            "value": "cat.meme"
+        }
+    ]
+}
